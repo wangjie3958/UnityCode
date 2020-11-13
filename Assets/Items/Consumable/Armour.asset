@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad3939d8bf1ff164bb315ae2b3e93a99, type: 3}
+  m_Name: Armour
+  m_EditorClassIdentifier: 
+  name: Armour
+  icon: {fileID: 21300000, guid: 2d646ba5640a2e8458ac7a045991695b, type: 3}
+  isDefaultItem: 0
+  introduce: "\u9632\u5FA1\u836F\u6C34[\u6D88\u8017\u54C1]\n\u589E\u52A0\u4F7F\u7528\u8005\u5341\u70B9\u9632\u5FA1\u529B\uFF0C\u6301\u7EED30\u79D2\u3002\n\n"
+  IncreaseNumber: 10
+  Type: 2
+  KeepTime: 30
+  buffSprite: {fileID: 21300000, guid: f26fb57718b149e43abd4fcc391ec40d, type: 3}
